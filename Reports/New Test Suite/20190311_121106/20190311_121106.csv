@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+New Test Suite,Chrome 72.0.3626.119,,2019-03-11 12:11:14,2019-03-11 12:12:23,1m - 9.100s,PASSED
+,,,,,,
+Test Cases/DataEntity,Chrome 72.0.3626.119,,2019-03-11 12:11:15,2019-03-11 12:12:23,1m - 8.558s,PASSED
+"openBrowser("""")",Chrome 72.0.3626.119,,2019-03-11 12:11:15,2019-03-11 12:11:23,7.917s,PASSED
+"for ([i = 0, i < 1, (i++)])",Chrome 72.0.3626.119,,2019-03-11 12:11:23,2019-03-11 12:12:12,48.171s,PASSED
+delay(10),Chrome 72.0.3626.119,,2019-03-11 12:12:12,2019-03-11 12:12:22,10.046s,PASSED
+closeBrowser(),Chrome 72.0.3626.119,,2019-03-11 12:12:22,2019-03-11 12:12:23,1.743s,PASSED

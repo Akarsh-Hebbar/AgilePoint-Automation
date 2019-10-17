@@ -4,6 +4,7 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+<<<<<<< HEAD
    <GlobalVariableEntity>
       <description></description>
       <initValue>'http://INBLR-PB3809D:13491/'</initValue>
@@ -34,4 +35,6 @@
       <initValue>'NOZHw6sL/1I='</initValue>
       <name>Password</name>
    </GlobalVariableEntity>
+=======
+>>>>>>> branch 'master' of https://github.com/Akarsh-Hebbar/AgilePoint-Automation
 </GlobalVariableEntities>
