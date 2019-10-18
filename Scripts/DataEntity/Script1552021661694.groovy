@@ -47,3 +47,5 @@ WebUI.delay(10)
 
 WebUI.closeBrowser()
 
+WebUI.openBrowser('')
+
